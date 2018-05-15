@@ -41,7 +41,7 @@ compile 'com.hwangjr.rxbus:rxbus:1.0.6'
 ```
 
 #### 4、代码调用
-- 请求获取
+- 请求授权
 
 ```
 PermissionUtil.requestEach(this, new PermissionUtil.OnPermissionListener() {
